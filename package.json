@@ -4,6 +4,7 @@
 	"private": false,
 	"dependencies": {
   	"node-zookeeper-client": "0.2.0",
-  	"pomelo-logger": "0.1.2"
+  	"pomelo-logger": "0.1.5",
+  	"async": "0.2.7"
 	}
 }
